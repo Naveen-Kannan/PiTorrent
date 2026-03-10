@@ -1,0 +1,10 @@
+*.bin
+*.list
+*.o
+*.d
+*.elf
+*.dSYM/
+objs/
+.demo_state.json
+output.txt
+__pycache__/
